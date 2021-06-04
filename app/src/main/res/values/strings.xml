@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Trasy biegowe</string>
+    <string name="detail_button"> Pokaż przepis </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="route_name"> Nazwa trasy </string>
+    <string name="route_details"> Miejsca i ścieżki </string>
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="save">Zapisz</string>
+
+    <string name="lastTime">Ostatni czas:</string>
+    <string name="time">Uzyskany czas:</string>
+
+</resources>
